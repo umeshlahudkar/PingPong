@@ -1,0 +1,78 @@
+﻿  Ball.cpp
+D:\PingPong\PingPong\Graphics\Screen.h(29,41): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.h(30,42): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Game\Ball.cpp(33,41): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+  Button.cpp
+D:\PingPong\PingPong\Graphics\Screen.h(29,41): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.h(30,42): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+  InputController.cpp
+D:\PingPong\PingPong\Graphics\Screen.h(29,41): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.h(30,42): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Game\PingPong.h(21,57): warning C4244: 'return': conversion from 'float' to 'uint32_t', possible loss of data
+D:\PingPong\PingPong\Game\PingPong.h(22,59): warning C4244: 'return': conversion from 'float' to 'uint32_t', possible loss of data
+  Paddle.cpp
+D:\PingPong\PingPong\Graphics\Screen.h(29,41): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.h(30,42): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Game\PingPong.h(21,57): warning C4244: 'return': conversion from 'float' to 'uint32_t', possible loss of data
+D:\PingPong\PingPong\Game\PingPong.h(22,59): warning C4244: 'return': conversion from 'float' to 'uint32_t', possible loss of data
+D:\PingPong\PingPong\Game\Paddle.cpp(14,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PingPong\PingPong\Game\Paddle.cpp(14,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\PingPong\PingPong\Game\Paddle.cpp(36,39): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Game\Paddle.cpp(39,40): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+  PingPong.cpp
+D:\PingPong\PingPong\Graphics\Screen.h(29,41): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.h(30,42): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Game\PingPong.h(21,57): warning C4244: 'return': conversion from 'float' to 'uint32_t', possible loss of data
+D:\PingPong\PingPong\Game\PingPong.h(22,59): warning C4244: 'return': conversion from 'float' to 'uint32_t', possible loss of data
+D:\PingPong\PingPong\Game\PingPong.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+D:\PingPong\PingPong\Game\PingPong.cpp(103,20): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+D:\PingPong\PingPong\Graphics\Screen.h(29,41): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.h(30,42): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Game\PingPong.h(21,57): warning C4244: 'return': conversion from 'float' to 'uint32_t', possible loss of data
+D:\PingPong\PingPong\Game\PingPong.h(22,59): warning C4244: 'return': conversion from 'float' to 'uint32_t', possible loss of data
+  Screen.cpp
+D:\PingPong\PingPong\Graphics\Screen.h(29,41): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.h(30,42): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(138,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(138,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(138,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(138,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(181,20): warning C4018: '<': signed/unsigned mismatch
+D:\PingPong\PingPong\Graphics\Screen.cpp(190,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(190,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(191,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(191,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(192,20): warning C4018: '<': signed/unsigned mismatch
+D:\PingPong\PingPong\Graphics\Screen.cpp(194,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(198,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(202,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(206,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(222,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(252,31): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(252,15): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(308,31): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(308,15): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(319,16): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.cpp(333,43): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+  main.cpp
+D:\PingPong\PingPong\Graphics\Screen.h(29,41): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.h(30,42): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Game\PingPong.h(21,57): warning C4244: 'return': conversion from 'float' to 'uint32_t', possible loss of data
+D:\PingPong\PingPong\Game\PingPong.h(22,59): warning C4244: 'return': conversion from 'float' to 'uint32_t', possible loss of data
+  GameScene.cpp
+D:\PingPong\PingPong\Graphics\Screen.h(29,41): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.h(30,42): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Game\PingPong.h(21,57): warning C4244: 'return': conversion from 'float' to 'uint32_t', possible loss of data
+D:\PingPong\PingPong\Game\PingPong.h(22,59): warning C4244: 'return': conversion from 'float' to 'uint32_t', possible loss of data
+D:\PingPong\PingPong\Scene\GameScene.cpp(15,14): warning C4244: 'initializing': conversion from 'uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Scene\GameScene.cpp(16,15): warning C4244: 'initializing': conversion from 'uint32_t' to 'float', possible loss of data
+  MainMenuScene.cpp
+D:\PingPong\PingPong\Graphics\Screen.h(29,41): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Graphics\Screen.h(30,42): warning C4244: 'return': conversion from 'const uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Game\PingPong.h(21,57): warning C4244: 'return': conversion from 'float' to 'uint32_t', possible loss of data
+D:\PingPong\PingPong\Game\PingPong.h(22,59): warning C4244: 'return': conversion from 'float' to 'uint32_t', possible loss of data
+D:\PingPong\PingPong\Scene\MainMenuScene.cpp(96,56): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+D:\PingPong\PingPong\Scene\MainMenuScene.cpp(96,34): warning C4244: 'argument': conversion from 'uint32_t' to 'float', possible loss of data
+  Generating Code...
+  PingPong.vcxproj -> D:\PingPong\Debug\PingPong.exe
